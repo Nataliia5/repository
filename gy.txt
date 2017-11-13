@@ -1,0 +1,4 @@
+printf("hello:")
+printf("helle:")
+printf("hehh:")
+printf("huhuho")
